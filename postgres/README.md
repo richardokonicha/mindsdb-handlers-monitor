@@ -10,7 +10,7 @@
 <!-- TEST_RESULTS_START -->
 ## 📊 Latest Test Results
 
-![Tests](https://github.com/tino097/mindsdb-handlers-monitor/actions/workflows/postgres.yml/badge.svg)
+![Tests](https://github.com/richardokonicha/mindsdb-handlers-monitor/actions/workflows/postgres.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-All-brightgreen)
 
 | Metric | Value |
@@ -22,9 +22,9 @@
 | **⚠️ Errors** | 0 |
 | **⏭️ Skipped** | 0 |
 | **Success Rate** | 100.0% |
-| **Duration** | 1.51s |
-| **Last Updated** | 2025-10-20 20:38 UTC |
+| **Duration** | 2.29s |
+| **Last Updated** | 2026-05-27 16:19 UTC |
 
-[📋 View detailed results](https://github.com/tino097/mindsdb-handlers-monitor/actions/workflows/postgres.yml)
+[📋 View detailed results](https://github.com/richardokonicha/mindsdb-handlers-monitor/actions/workflows/postgres.yml)
 
 <!-- TEST_RESULTS_END -->
